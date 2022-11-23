@@ -8,7 +8,7 @@ If you don't have the container on your machine run
 docker run -it --mount type=bind,source="$(PWD)",target=/home texlive/texlive:latest
 ```
 
-If you have a texlive container run: 
+If you have a texlive container: 
 
 Run the start command to start the container. 
 ``` bash 
